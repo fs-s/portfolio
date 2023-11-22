@@ -163,6 +163,21 @@ p.lead {
 		font-size: 1.7rem;
 	}
 }
+p.strong {
+    font-family: "lora-regular", serif;
+    font-size: 2rem;
+    font-weight:600;
+    color: black;
+}
+p.information {
+    font-family: "lora-regular", serif;
+    font-size: 2rem;
+    font-weight:600;
+    color: black;
+}
+h3.Skills {
+    margin-bottom: 50px;
+}
 em, i, strong, b {
 	font-size: 1.7rem;
 	line-height: 3rem;
